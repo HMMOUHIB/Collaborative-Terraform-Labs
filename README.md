@@ -46,11 +46,11 @@ git push -u origin CIM-J-A
 Collaborative-Terraform-Labs/
 ├── README.md
 ├── .gitignore
-└── lab-1/          # LAB 1 : module VPC (Inputs / Resources / Outputs)
+└── lab-1/          # LAB 1 : VPC, Subnet, IGW, Route Table, SG, EC2 (G1 → G6)
 ```
 
 ## Labs
 
 | Lab | Sujet | Dossier |
 |-----|-------|---------|
-| 1 | Lire la doc du Registry : Inputs, Resources, Outputs — création d'un VPC | [lab-1](./lab-1) |
+| 1 | Infrastructure AWS collaborative (G1 → G6) : VPC, Subnet, IGW, Route Table, SG, EC2 | [lab-1](./lab-1) |
